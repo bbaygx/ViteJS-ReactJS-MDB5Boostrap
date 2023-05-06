@@ -1,12 +1,11 @@
-![MDB Logo](https://mdbootstrap.com/img/Marketing/general/logo/medium/mdb-r.png)
+![MDB Logo](https://mdbootstrap.com/img/Marketing/general/logo/medium/mdb-r.png) +
+![VITE LOGO](https://vitejs.dev/logo-with-shadow.png) +
+![REACT LOGO](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K)
 
-# MDB 5 Vite Starter
+# ViteJs + React Js + MDB5Boostrap Starter
 
 ### Vite boilerplate for Bootstrap 5 & Material Design 2.0 UI Kit
 
-**[>> Support MDB 5 with a STAR](https://github.com/mdbootstrap/mdb-ui-kit/)**
-
-**[>> MDB 5 Demo](https://mdbootstrap.com/docs/standard/#demo)**
 
 <a href="https://npmcharts.com/compare/mdbootstrap?minimal=true"> <img src="https://img.shields.io/npm/dm/mdbootstrap.svg?label=MDB%20Downloads" alt="Downloads"></a>
 <a href="https://github.com/mdbootstrap/bootstrap-material-design/blob/master/License.pdf"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License"></a>
