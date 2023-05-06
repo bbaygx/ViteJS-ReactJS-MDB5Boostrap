@@ -1,8 +1,8 @@
-![MDB Logo](https://mdbootstrap.com/img/Marketing/general/logo/medium/mdb-r.png) +
-![VITE LOGO](https://vitejs.dev/logo-with-shadow.png) +
+![MDB Logo](https://mdbootstrap.com/img/Marketing/general/logo/medium/mdb-r.png)
+![VITE LOGO](https://www.linkpicture.com/q/logo-1_7.svg)
 ![REACT LOGO](https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-64.png)
 
-# ViteJs + React Js + MDB5Boostrap Starter
+# MDB5Boostrap + ViteJs + React Js Starter
 
 ### Vite boilerplate for Bootstrap 5 & Material Design 2.0 UI Kit
 
