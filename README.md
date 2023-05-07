@@ -48,7 +48,7 @@ npm run build
 
 ### Features:
 
-* Bundling via [Vite](https://github.com/vitejs/vite) v3.1.0
+* Bundling via [Vite](https://github.com/vitejs/vite) v4.3.2
 * ES6+ Support via [babel-cli](https://github.com/babel/babel) v7.18.10
 * SASS Support via [sass](https://github.com/sass/dart-sass) v1.54.8
 * Linting via [eslint-webpack-plugin](https://github.com/webpack-contrib/eslint-webpack-plugin) v3.2.0
